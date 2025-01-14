@@ -1,0 +1,3 @@
+2023-03-08 08:56:46 LogWrapper init() ./logs/SocketConnection.log
+2023-03-08 08:56:46 WebSocket connection established
+2023-03-08 08:56:46 Login with: {'Id': 'e6e95a30-dd64-42c7-b954-7eabeef57b6c', 'Request': 'Login', 'Params': {'AuthType': 'HMAC', 'WebApiId': '0100e921-f640-410d-90c6-efaaa18abeb7', 'WebApiKey': 'k5Qxfb6jyxNkW4cp', 'Timestamp': 1678262206308, 'Signature': 'AtPqrWqLVKoYNGcFjPjWvgxcWTUYGfza7HbQcH7GI3U=', 'DeviceId': 'WebBrowser', 'AppSessionId': '1234'}}
